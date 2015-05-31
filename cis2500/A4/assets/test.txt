@@ -1,0 +1,8 @@
+apple,fruit,60,h
+hotdogs,meat,200,j
+cake,dairy,1500,j
+chocolate,fat,2000,j
+apple,fruit,60,h
+hotdogs,meat,20.369,j
+cake,dairy,1500,j
+chocolate,fat,3000,j
